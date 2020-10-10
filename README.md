@@ -1,8 +1,7 @@
 ### Hi I'm Rafa 😄 :wave: :computer:
-## I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London.
-## A Lawyer and General Manager of my own company with more than 15 years of professional experience, with a strong background in Law, business and managing teams.
-<br>
+## I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London, with a strong backgroung in business management in an office environment and a Lawyer with my own legal practice office. I have decided to pursue my real passion, Tech, and I have not regretted it not even for a minute. I have found in code my real passion in life and I am now a happy and frustrated (do you relate with this??) coder.
 
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-hernandez-82705baa/">
     <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
