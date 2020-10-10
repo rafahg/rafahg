@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-hernandez-82705baa/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdwglogo.com%2Flinkedin%2F&psig=AOvVaw1AMXzPTv3T49uSj-7eo7Yz&ust=1602418293844000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj-27v_qewCFQAAAAAdAAAAABAI" alt="linkedin" hspace="30" height="42" width="42"></a>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdwglogo.com%2Flinkedin%2F&psig=AOvVaw1AMXzPTv3T49uSj-7eo7Yz&ust=1602418293844000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj-27v_qewCFQAAAAAdAAAAABAS" alt="linkedin" hspace="30" height="42" width="42"></a>
   <img src="https://img.shields.io/badge/Ready-for%20Develop!-blue" alt="BADGE" hspace="30">
 </p>
 
