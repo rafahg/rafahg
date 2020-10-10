@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-hernandez-82705baa/">
     <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
+  <a href="https://github.com/rafahg/CV">
+    <img src="./images/cv_image.svg" alt="CV" hspace="30" height="42" width="42"></a>
   <img src="https://img.shields.io/badge/Ready-for%20Develop!-blue" alt="BADGE" hspace="30">
 </p>
 
