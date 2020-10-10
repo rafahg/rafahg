@@ -1,5 +1,5 @@
 ### Hi I'm Rafa 😄 :wave: :computer:
-## I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London, with a strong backgroung in business management in an office environment and a Lawyer with my own legal practice office. I have decided to pursue my real passion, Tech, and I have not regretted it not even for a minute. I have found in code my real passion in life and I am now a happy and frustrated (do you relate with this??) coder.
+<h2> I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London, with a strong backgroung in business management in an office environment and a Lawyer with my own legal practice office. I have decided to pursue my real passion, Tech, and I have not regretted it not even for a minute. I have found in code my real passion in life and I am now a happy and frustrated (do you relate with this??) coder. </h2>
 
 <br>
 <p align="center">
@@ -9,11 +9,9 @@
 </p>
 
 
-- 🔭 I’m currently working o
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on more projects than i can handle.
+- 🌱 I’m currently learning AWS.
+- 👯 I’m looking to collaborate on opensource and react projects.
+- 🤔 I’m looking for help in general.
+- 💬 Ask me about whatever you want. I will try to help!.
+- 📫 How to reach me: rafa.hernandez.dev@gmail.com  
