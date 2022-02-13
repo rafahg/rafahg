@@ -25,7 +25,7 @@ Acebook | Clone of some Facebook functionalities using rails as a framework for 
 <br>
 
 - 🔭 I’m currently working on more projects than I can handle.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently involved in the Salesforce World, among many other things.
 - 👯 I’m looking to collaborate on opensource and react projects.
 - 🤔 I’m looking for learn and improve as much as I can.
 - 💬 Ask me about whatever you want. I will try to help!.
