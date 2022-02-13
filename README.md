@@ -1,5 +1,4 @@
 ### Hi I'm Rafa a Software Developer based in London 😄 :wave: :computer:
-<h3 align="justified"> I am a  Full Stack Developer, based in London, working in consultancy in London, with a strong background in business management in an office environment and a former Lawyer with my own legal practice office.<br><br> Years ago decided to pursue my real passion, Tech, and I have not regretted it not even for a minute. I have found in code my real passion in life and I am now a happy and frustrated (do you relate with this??) coder. </h3>
 
 <h4>You can check it out my LinkedIn profile, my Curriculum Vitae and my latest relevant projects here:</h4>
 
